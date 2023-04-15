@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -l my_dir
